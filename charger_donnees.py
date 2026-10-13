@@ -1,5 +1,4 @@
-# FRAYSSE Nathan 3-FI-B
-# Application ESCO - question 1 : chargement du CSV dans Neo4j
+# FRAYSSE Nathan 3-FI-B et POIRIER Mathis 3-FI-B
 
 import csv
 import os
