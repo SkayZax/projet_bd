@@ -1,1 +1,86 @@
-.vscode
+# ---------- Neo4j (serveur local + archives : beaucoup trop lourds pour git) ----------
+neo4j-community-*/
+neo4j-*.zip
+neo4j-*.tar.gz
+*.dump
+*.backup
+
+# ---------- MongoDB (partie 6 du TP) ----------
+mongodb-*/
+mongo-data/
+*.bson
+
+# ---------- Python ----------
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+*.egg
+.eggs/
+wheels/
+pip-wheel-metadata/
+pip-log.txt
+.venv/
+venv/
+env/
+ENV/
+.python-version
+
+# ---------- Tests, couverture, typage, lint ----------
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+.tox/
+.nox/
+.mypy_cache/
+.ruff_cache/
+.hypothesis/
+
+# ---------- Jupyter ----------
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+
+# ---------- Profilage ----------
+*.prof
+*.pstats
+
+# ---------- Secrets / configuration locale ----------
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+secrets.*
+
+# ---------- Logs et fichiers temporaires ----------
+*.log
+logs/
+*.tmp
+*.temp
+*.bak
+*.swp
+*~
+
+# ---------- IDE / éditeurs ----------
+.vscode/
+.idea/
+*.iml
+*.sublime-project
+*.sublime-workspace
+
+# ---------- Système ----------
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# ---------- Archives ----------
+*.zip
+*.7z
+*.rar
