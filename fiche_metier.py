@@ -1,5 +1,4 @@
-# Fiche métier ESCO : recherche et affichage des appellations,
-# compétences et connaissances obligatoires ou optionnelles.
+# FRAYSSE Nathan 3-FI-B et POIRIER Mathis 3-FI-B
 
 import os
 
