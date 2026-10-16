@@ -1,7 +1,5 @@
 # FRAYSSE Nathan 3-FI-B et POIRIER Mathis 3-FI-B
 
-# Question3 : Compétence
-
 import os
 import sys
 
