@@ -1,10 +1,5 @@
 # FRAYSSE Nathan 3-FI-B et POIRIER Mathis 3-FI-B
 
-# Question 5 : similarite entre deux metiers (Jaccard sur leurs competences, requises ou optionnelles)
-#
-# Utilisation : python similarite_metiers.py "soudeur laser" "soudeur par point"
-#               python similarite_metiers.py "soudeur laser" "soudeur par point" --connaissances
-
 import os
 import sys
 
